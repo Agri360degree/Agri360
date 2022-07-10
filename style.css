@@ -110,6 +110,7 @@ main {
 }
 .div1{background-color: lightslategray;
 grid-column: 1/-1;
+
 }
 .div2{background-color: orange;}
 .div3{background-color: rebeccapurple;}

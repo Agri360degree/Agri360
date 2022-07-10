@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Metal+Mania&display=swap');
+
 * {margin: 0; padding: 0;
 box-sizing: border-box;}
 
@@ -13,6 +15,7 @@ main {
 }
 .div1{background-color: lightslategray;
 grid-column: 1/-1;
+font-family: 'Metal-mania';
 }
 .div2{background-color: orange;}
 .div3{background-color: rebeccapurple;}
