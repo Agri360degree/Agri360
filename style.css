@@ -18,6 +18,7 @@
 }
 
 html, body {
+    background-color: #d1dafa;
     margin: 0;
     padding: 0;
 }
@@ -54,7 +55,8 @@ html, body {
 
 
 .main-header {
-   background-image: url(images/sunset.jpg);
+   background-color:#181c27;
+   /* background-image: url(images/sunset.jpg); */
     /* background-image:  url(images/baackground\ nav\ image.jpg); */
     background-size: cover;
     padding-bottom: 30px;
@@ -74,6 +76,7 @@ html, body {
 }
 
 .content-section {
+    background-color:#d1dafa;
     margin: 1em;
 }
 
@@ -109,7 +112,7 @@ main {
     grid-gap: 20px;
 
 }
-.div1{background-color: lightslategray;
+/* .div1{background-color: lightslategray;
 grid-column: 1/-1;
 
 }
@@ -129,10 +132,10 @@ grid-column: 1/-1;
 .div8{background-color: greenyellow;
 grid-row: 6/7;
 grid-column: 2/3;
-}
+} */
 
 .main-footer {
-    background-color: #77b5fe;
+    background-color: #181c27;
     color: white;
     padding: .25em 0;
 }
@@ -182,7 +185,7 @@ grid-column: 2/3;
 .btn-play {
     display: block;
     margin: 0 auto;
-    color: #77b5fe;
+    color: #f7cac9;
     font-size: 4em;
     border-radius: 50%;
     padding: 0;
@@ -225,14 +228,14 @@ grid-column: 2/3;
 
 .btn-primary {
     color: white;
-    background-color: #56ccf2;
+    background-color: #a75d5dd9;
     border: none;
     border-radius: .3em;
     font-weight: bold;
 }
 
 .btn-primary:hover {
-    background-color: #2d9cdb;
+    background-color: #4179ce;
 }
 
 .section-header {

@@ -76,12 +76,12 @@ html, body {
 
 
 .main-header {
-    background-image: url(images/sunset.jpg);
-    /* background-image:  url(images/baackground\ nav\ image.jpg); */
-    background-size: cover;
-    padding-bottom: 30px;
-}
-
+    background-color:#181c27;
+    /* background-image: url(images/sunset.jpg); */
+     /* background-image:  url(images/baackground\ nav\ image.jpg); */
+     background-size: cover;
+     padding-bottom: 30px;
+ }
 
 .band-name {
     text-align: center;
@@ -123,7 +123,7 @@ html, body {
 }
 
 .main-footer {
-    background-color: #77b5fe;
+    background-color: #181c27;
     color: white;
     padding: .25em 0;
 }
