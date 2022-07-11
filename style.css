@@ -235,7 +235,8 @@ grid-column: 2/3;
 }
 
 .btn-primary:hover {
-    background-color: #4179ce;
+    /* background-color: #4179ce; */
+    background-color: #390008;
 }
 
 .section-header {
